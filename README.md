@@ -1,4 +1,6 @@
 # Charles Proxy
+
+
 Проверка тестовых сценариев в мобильном приложении с использованием Charles Proxy:
 - Удаление другого товара:
 - https://drive.google.com/file/d/1Ay3jTjS3w0k3QxvuUukKpwiptHbIxG90/view?usp=drive_link
