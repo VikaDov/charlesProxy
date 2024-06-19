@@ -1,6 +1,6 @@
 # Charles Proxy
 Я перехватывала трафик веб-приложения ["Интернет-магазин"](https://qa.demoshopping.ru/) и мобильного приложения [«shopping-list.apk»](https://drive.google.com/file/d/1BEta0NqWVn_T54jboSk0naTaKNvVeVRf/view?usp=drive_link), используя Charles Proxy. 
-1.Проверка тестовых сценариев в веб-приложении с использованием Charles Proxy:
+1. Проверка тестовых сценариев в веб-приложении с использованием Charles Proxy:
 - [Изменение кол-ва товаров в корзине](https://drive.google.com/file/d/1Q-CMAjH7enYCwFjw_vA4TH0Drgt01KWB/view?usp=drive_link) (в запросе 2 товара, а в ответе 500 товаров) 
 - [Сервер возвращает статус-код 403](https://drive.google.com/file/d/1dM2KPw3cNyAjc8CvrOWGrod57_Z8Buov/view?usp=drive_link)
 - [Перенаправление запроса](https://drive.google.com/file/d/1lijB5DmsuaocM77r3lK6YmXvsyjkbG-z/view?usp=drive_link) с https://demoshopping.ru на https://qa.demoshopping.ru 
